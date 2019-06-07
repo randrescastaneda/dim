@@ -1,7 +1,8 @@
 v 3
 d Materials by R.Andres Castaneda
 d The World Bank
-d 
-d https://github.com/randrescastaneda/dim
+d https://github.com/randrescastaneda
  
+d 'dim': a program that displays the dimensions of data loaded in memory
+
 p dim
