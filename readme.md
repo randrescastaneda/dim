@@ -1,7 +1,14 @@
-# 'DIM': dim
+Stata module to display dimensions of data. Simulate function dim() in R
+========================================================================
 
+This repository is a simple Stata command that display the dimension of dataset. That is, number of observations and variables.
 
-## Description: 
-  Stata module to display dimensions of data. Simulate function dim() in R  
+### License
+MIT
 
+Author
+------
 
+**R.Andrés Castañeda**  
+The World Bank
+<https://github.com/randrescastaneda>  
